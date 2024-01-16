@@ -13,6 +13,8 @@ TODO：
 
 标签 v-if，v-for，v-show，v-pre等等。
 
+插槽
+
 插件的实现
 
 mixin
